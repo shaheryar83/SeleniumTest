@@ -37,4 +37,4 @@ public class ReceptionistTest extends BaseTest {
 
         System.out.println("🎯 Walk-in appointment created successfully by Receptionist!");
     }
-}
+}Test
